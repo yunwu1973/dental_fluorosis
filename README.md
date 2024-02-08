@@ -1,3 +1,3 @@
 # dental_fluorosis
 
-We will publish the dataset of dental fluorosis when our paper is accepted.
+We will publish the dataset of dental fluorosis in this repository when our paper is accepted.
